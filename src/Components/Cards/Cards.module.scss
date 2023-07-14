@@ -1,0 +1,27 @@
+.cards{
+    width: 20rem;
+    margin: 2rem auto;
+    border: 0.1rem solid rgb(212, 212, 212);
+    padding: 1rem 0rem;
+    border-radius: 1rem;
+    
+    .img{
+        width: 100%;
+    }
+
+    .text{
+        padding: 0.5rem;
+        text-align: left;
+
+        .title{
+            // font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .desc{
+            padding: 0.4rem 0px;
+            padding-left: 0.3rem;
+            font-size: 0.9rem;
+        }
+    }
+}
